@@ -90,7 +90,8 @@
       <workItem from="1723458876430" duration="17000" />
       <workItem from="1723458921161" duration="3044000" />
       <workItem from="1723804712966" duration="2494000" />
-      <workItem from="1723809672116" duration="3264000" />
+      <workItem from="1723809672116" duration="3435000" />
+      <workItem from="1724063762447" duration="2613000" />
     </task>
     <servers />
   </component>
@@ -101,5 +102,24 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/FallingPlatform.cs</url>
+          <line>30</line>
+          <properties documentPath="D:\Users\20221170150006\Desktop\Jogo oficina\joguinho2d\Trabas2d\Assets\Scripts\FallingPlatform.cs" initialLine="34" containingFunctionPresentation="Method 'OnTriggerEnter2D'">
+            <startOffsets>
+              <option value="660" />
+            </startOffsets>
+            <endOffsets>
+              <option value="695" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
